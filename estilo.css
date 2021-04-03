@@ -1,0 +1,27 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.card {
+    background-color: white;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.card-top {
+    text-align: center;
+}
+
+.title {
+    color: navy;
+}
+
+.card-group>button {
+    margin: 5px;
+    background-color: blue;
+    width: 30%;
+    border-radius: 30px;
+    padding: 5px;
+    color: white;
+    border: 0px;
+}
